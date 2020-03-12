@@ -7,3 +7,4 @@ The BleArdu folder contains the Android app. The code has been built OK with And
 
 The arduino-sense folder contains the arduino-sense.ino file, this has build and flashed OK with Arduino IDE 1.8.12.   
 
+
