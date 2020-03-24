@@ -7,4 +7,4 @@ The BleArdu folder contains the Android app. The code has been built OK with And
 
 The arduino-sense folder contains the arduino-sense.ino file, this has build and flashed OK with Arduino IDE 1.8.12.   
 
-
+The rpi contains a bash script to get the sensor data to a Linux device. I have tested this OK on a Raspberry Pi Zero W. Note that I have hardcoded the MAC adress on my Arduino Nano 33 Sense BLE device. 
